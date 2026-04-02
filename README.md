@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">⚡ JOXAZZ ⚡</h1>
+<h3 align="center">Inteligencia Artificial 🤖 | Python 🐍 | Ciberseguridad 🔐</h3>
 
-<!--
-**JOXAZz-lab/JOXAZz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Explorando ciberseguridad y desarrollando proyectos innovadores con IA
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- 🤖 Desarrollo con Inteligencia Artificial  
+- 🐍 Automatización y scripting en Python  
+- 🔐 Explorando Ciberseguridad  
+- 🚀 Creando proyectos reales y contenido  
+
+---
+
+## ⚙️ Tech Stack
+
+```bash
+Python | AI | Machine Learning | Cybersecurity | Automation
