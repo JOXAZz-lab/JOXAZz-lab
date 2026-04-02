@@ -1,21 +1,15 @@
-<h1 align="center">⚡ JOXAZZ ⚡</h1>
-<h3 align="center">Inteligencia Artificial 🤖 | Python 🐍 | Ciberseguridad 🔐</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D2D,100:0D0D0D&height=200&section=header&text=JOXAZZ&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  Explorando ciberseguridad y desarrollando proyectos innovadores con IA
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Explorer;Python+Engineer&center=true&width=500&height=50&color=FF2D2D">
 </p>
 
 ---
 
 ## 🧠 Sobre mí
-- 🤖 Desarrollo con Inteligencia Artificial  
-- 🐍 Automatización y scripting en Python  
-- 🔐 Explorando Ciberseguridad  
-- 🚀 Creando proyectos reales y contenido  
-
----
-
-## ⚙️ Tech Stack
 
 ```bash
+AI | Python | Cybersecurity | Automation
 Python | AI | Machine Learning | Cybersecurity | Automation
