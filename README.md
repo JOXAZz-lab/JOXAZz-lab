@@ -19,3 +19,5 @@
 > USER: JOXAZZ
 > ROLE: AI ENGINEER / CYBERSECURITY EXPLORER
 > STATUS: BUILDING • TESTING • BREAKING • LEARNING
+
+<p align="center"> <a href="https://www.youtube.com/channel/UCnZOQipjsSHcid1g0ScvJVQ"> <img src="https://img.shields.io/badge/YOUTUBE-FF003C?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://www.tiktok.com/@joxazz0"> <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok"/> </a> <a href="https://www.facebook.com/people/Joxazz/61576506954003/"> <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook"/> </a> <a href="https://www.linkedin.com/in/joxazz/"> <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> </p>
